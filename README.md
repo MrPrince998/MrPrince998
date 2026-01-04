@@ -25,7 +25,7 @@
 <h2 align="left">Stats: </h2>
 
 <div align="left">
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=MrPrince998&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=mrprince998&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 <div align="left">
