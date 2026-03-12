@@ -1,98 +1,81 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+
+# Bharat Rana Magar
+### Frontend Developer · UI Craftsman · Backend Developer
+
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MrPrince998.MrPrince998)](https://github.com/MrPrince998)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat-rana-magar-a9421a330/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/prince98021/)
+
 </div>
 
-###
+---
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MrPrince998.MrPrince998&"  />
+## About Me
 
-###
+I'm a frontend developer focused on building **fast, modern, and accessible web applications**. I care deeply about clean architecture, pixel-perfect UI, and meaningful user experiences.
 
-<br clear="both">
+- 🔭 Currently working on full-stack projects with **Next.js**
+- 🌱 Exploring **system design**, **performance optimization**, and **UI/UX principles**
+- 💬 Ask me about **React**, **Tailwind CSS**, or **frontend architecture**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bharat-rana-magar-a9421a330/) or [Instagram](https://www.instagram.com/prince98021/)
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools & Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=MrPrince998&count_private=true&show_icons=true&theme=github_dark&border_radius=8&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MrPrince998&hide=HTML&langs_count=6&layout=compact&theme=github_dark&border_radius=8&hide_border=true" alt="Top Languages" />
+
+<img width="420" src="https://github-readme-streak-stats-salesp07.vercel.app?user=MrPrince998&count_private=true&theme=github-dark-blue&border_radius=8&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+## Let's Connect
 
-<h2 align="left">Hey! I’m Prince — a frontend developer who turns ideas into fast, modern, and interactive web apps.</h2>
-
-###
-
-<h2 align="left">Stats: </h2>
+I'm always open to collaborating on interesting projects or discussing ideas.
 
 <div align="left">
-<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=mrprince998&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharat_Rana_Magar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat-rana-magar-a9421a330/)
+[![Instagram](https://img.shields.io/badge/Instagram-@prince98021-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prince98021/)
+[![Facebook](https://img.shields.io/badge/Facebook-prince.rana.magar-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/prince.rana.magar.132443)
+
 </div>
 
-<div align="left">
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MrPrince998&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
-
-<div align="left">
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MrPrince998&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-###
-
-<h2 align="left">Tech Stacks:</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h2 align="left">Socials</h2>
-
-<div align="left">
-  <a href="https://www.instagram.com/prince98021/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/bharat-rana-magar-a9421a330/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/prince.rana.magar.132443" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MrPrince998/MrPrince998/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
